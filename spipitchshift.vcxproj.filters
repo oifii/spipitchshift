@@ -22,4 +22,7 @@
       <Filter>Quellcodedateien</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
 </Project>
